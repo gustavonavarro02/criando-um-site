@@ -137,13 +137,16 @@ aside > ul{
 aside h3{
     background-color: var(--cor0);
     padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+    margin: -10px;
 }
 
 aside > p{
     text-indent: 10px;
-    padding: 10px;
+    padding-top: 15px;
     font-family: var(--fonte-padrao);
 }
+
 
 
 footer{
